@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3ee6f5c3.css",
+    "main.js": "/static/js/main.96bd0747.js",
+    "static/js/787.2f96e9da.chunk.js": "/static/js/787.2f96e9da.chunk.js",
+    "static/media/drills.png": "/static/media/drills.01e4521275a0bc440709.png",
+    "static/media/perforators.png": "/static/media/perforators.51507bfd14d847e444ae.png",
+    "static/media/warranty.png": "/static/media/warranty.c4e35e32c7e4d0381033.png",
+    "static/media/delivery.png": "/static/media/delivery.ea96d78925d458a12d17.png",
+    "static/media/credit.png": "/static/media/credit.9217a5afb8a28bece52b.png",
+    "static/media/ptsans.woff2": "/static/media/ptsans.1560b144c311ee0a4728.woff2",
+    "static/media/cuprum-italic.woff2": "/static/media/cuprum-italic.71a07ced381c345f8ea4.woff2",
+    "static/media/cuprum-bold.woff2": "/static/media/cuprum-bold.f8fdb4a97e2c068e025b.woff2",
+    "static/media/cuprum.woff2": "/static/media/cuprum.62609850384d461a82ba.woff2",
+    "static/media/Object.svg": "/static/media/Object.8b28fd1444279b5aa4c2.svg",
+    "static/media/new.svg": "/static/media/new.525aeacad0c8f40e09bc.svg",
+    "static/media/icon-phone.svg": "/static/media/icon-phone.f843341c74a6d41f7cb5.svg",
+    "static/media/icon-close.svg": "/static/media/icon-close.1cd7f125e5974d55aa5d.svg",
+    "index.html": "/index.html",
+    "static/media/icon-cart.svg": "/static/media/icon-cart.eace2146f2a8743a9e2f.svg",
+    "static/media/icon-btn-right.svg": "/static/media/icon-btn-right.be7dd3ea6e5d2c862ebb.svg",
+    "static/media/icon-btn-left.svg": "/static/media/icon-btn-left.2eb96366c7a07e820e94.svg",
+    "main.3ee6f5c3.css.map": "/static/css/main.3ee6f5c3.css.map",
+    "main.96bd0747.js.map": "/static/js/main.96bd0747.js.map",
+    "787.2f96e9da.chunk.js.map": "/static/js/787.2f96e9da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ee6f5c3.css",
+    "static/js/main.96bd0747.js"
+  ]
+}

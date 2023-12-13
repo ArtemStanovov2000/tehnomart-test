@@ -1,0 +1,66 @@
+
+/* Глобальные*/
+@font-face {
+    font-family: 'Cuprum';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(/fonts/cuprum/cuprum.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'Cuprum';
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: url(/fonts/cuprum/cuprum-italic.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'Cuprum';
+    font-style: normal;
+    font-weight: bold;
+    font-display: swap;
+    src: url(/fonts/cuprum/cuprum-bold.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'Ptsans';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(/fonts/ptasans/ptsans.woff2) format('woff2');
+}
+
+:root {
+    --dark-blue: #32425C;
+    --black-blue: #293449;
+    --basic-red: #ee3643;
+    --basic-green: #63a63E;
+    --active-basic-red: #cc3333;
+    --white: #ffffff;
+    --basic-grey: #c5c5c5;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: var(--white);
+}
+
+li {
+    list-style: none;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+main {
+    margin-top: 60px;
+}
